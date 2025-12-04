@@ -1,4 +1,4 @@
-# Web Technology Lab Tasks
+# Web Technologies Lab Tasks
 
 This repository contains a collection of lab tasks covering HTML, CSS, and JavaScript fundamentals and advanced concepts for Web Technologies course supervised by Md.Khairul Alam Mazumder,lecturer, Faculty
 DEPARTMENT OF COMPUTER SCIENCE,AIUB
